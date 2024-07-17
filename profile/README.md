@@ -3,7 +3,7 @@ Hol0 (formerly Graphene) is an extensible microblogging platform implemented in 
 
 # FAQ
 ## Why the name "Hol0"?
-Because it is inspired by the name of a character in a certain Japanese light novel. Another reason is that I couldn't think of a name other than this and Graphene.
+The name of a character in a certain Japanese novel is partially replaced by Leet. Another reason is that I couldn't think of a name other than this and Graphene.
 
 ## Why wasn't it implemented from existing software?
 This is because I am so bad at understanding code written by others. Also, writing code in TypeScript (JavaScript) is likely to be of lower quality than developing in Python.
